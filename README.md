@@ -1,4 +1,4 @@
-# 👋 Oiie, eu sou a Giovanna 👩🏻‍💻✨
+# 👋 Oii, eu sou a Giovanna 👩🏻‍💻✨
 # Sou técnica em informática pelo Cotuca e sou estudante de Ciência da Computação na Unicamp ❤
 
 # Meu GitHub:
